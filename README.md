@@ -43,6 +43,7 @@ Please note that blocklists lacking active maintenance or those containing relat
 | URLhaus                     | abuse.ch               | A project to share malicious URLs                         | [Link][URLhaus]                     | CC0                             | [Raw][URLhaus.raw]                     |
 | UT1 malware Category        | Blacklists UT1         | Any website which deliver malware                         | [Link][Blacklists UT1]              | CC BY-SA 4.0                    | [Raw][UT1.malware.raw]                 |
 | UT1 phishing Category       | Blacklists UT1         | Phishing sites                                            | [Link][Blacklists UT1]              | CC BY-SA 4.0                    | [Raw][UT1.phishing.raw]                |
+| ANTI-SPY HOST               | Anti-Spy MCLX          | ANTI-SPY HOSTS                                            | [Link][Anti-Spy MCLX]               |                                 | [Raw][ANTI.SPY.raw]                    |
 
 [Anti Malware List]: https://github.com/DandelionSprout/adfilt
 [Anti Malware List.raw]: https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -133,3 +134,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 [blocklistproject.phishing.raw]: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 [blocklistproject.ransomware.raw]: https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 [blocklistproject.scam.raw]: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+
+[Anti-Spy MCLX]: https://github.com/protexdefense/adguard-all-list
+[ANTI.SPY.raw]: https://raw.githubusercontent.com/protexdefense/adguard-all-list/main/hosts?token=GHSAT0AAAAAACOIPYVNYLW37L4L6F7FW2BCZOT4S6A

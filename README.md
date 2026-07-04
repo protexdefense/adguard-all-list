@@ -1,4 +1,4 @@
-# Índice de listas — atualizado em 2026-07-04 21:14:05 UTC
+# Índice de listas — atualizado em 2026-07-04 21:45:59 UTC
 
 - lists/ads.txt
 - lists/lite.txt
